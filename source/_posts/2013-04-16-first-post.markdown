@@ -4,6 +4,7 @@ title: "First Post"
 date: 2013-04-16 09:11
 comments: true
 categories: 
+sharing: false
 ---
 Hello World
 -----------
