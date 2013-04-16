@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-04-15T22:47:54-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Learn to Code]]></title>
+  <link href="http://creativewriting.eddiezane.me/atom.xml" rel="self"/>
+  <link href="http://creativewriting.eddiezane.me/"/>
+  <updated>2013-04-16T09:20:10-04:00</updated>
+  <id>http://creativewriting.eddiezane.me/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Eddie Zaneski]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://creativewriting.eddiezane.me/blog/2013/04/16/first-post/"/>
+    <updated>2013-04-16T09:11:00-04:00</updated>
+    <id>http://creativewriting.eddiezane.me/blog/2013/04/16/first-post</id>
+    <content type="html"><![CDATA[<h1>Hello World</h1>
+
+<p>The purpose of this blog is to introduce complete beginners to the world of
+programming. There will be weekly screencasts introducing a new topic in
+programming. Some people are quickly intimidated by new things, escepcially when
+ it comes to technology. We will be moving at a rather slow pace to make sure
+that no one is lost along the way. If you feel that the pace is too slow, then
+you might be more comfortable checking out <a href="http://codeacademy.com">codeacademy.</a></p>
+]]></content>
+  </entry>
   
 </feed>
