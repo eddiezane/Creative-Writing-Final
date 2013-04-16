@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 Hello World
-===========
+-----------
 
 The purpose of this blog is to introduce complete beginners to the world of
 programming. There will be weekly screencasts introducing a new topic in
