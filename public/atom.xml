@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to Code]]></title>
   <link href="http://creativewriting.eddiezane.me/atom.xml" rel="self"/>
   <link href="http://creativewriting.eddiezane.me/"/>
-  <updated>2013-04-30T11:14:31-04:00</updated>
+  <updated>2013-04-30T11:17:54-04:00</updated>
   <id>http://creativewriting.eddiezane.me/</id>
   <author>
     <name><![CDATA[Eddie Zaneski]]></name>
@@ -34,13 +34,11 @@ alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a></p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[First Post]]></title>
+    <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://creativewriting.eddiezane.me/blog/2013/04/16/first-post/"/>
     <updated>2013-04-16T09:11:00-04:00</updated>
     <id>http://creativewriting.eddiezane.me/blog/2013/04/16/first-post</id>
-    <content type="html"><![CDATA[<h2>Hello World</h2>
-
-<p>The purpose of this blog is to introduce complete beginners to the world of
+    <content type="html"><![CDATA[<p>The purpose of this blog is to introduce complete beginners to the world of
 programming. There will be weekly screencasts introducing a new topic in
 programming. Some people are quickly intimidated by new things, escepcially when
  it comes to technology. We will be moving at a rather slow pace to make sure

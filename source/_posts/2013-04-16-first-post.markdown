@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "First Post"
+title: "Hello World"
 date: 2013-04-16 09:11
 comments: true
 categories: 
 sharing: false
 ---
-Hello World
------------
-
 The purpose of this blog is to introduce complete beginners to the world of
 programming. There will be weekly screencasts introducing a new topic in
 programming. Some people are quickly intimidated by new things, escepcially when
