@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Not With If Statements"
+title: "Using 'Not' With If Statements"
 date: 2013-05-09 13:37
 comments: true
 categories: 
