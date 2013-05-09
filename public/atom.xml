@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to Code]]></title>
   <link href="http://creativewriting.eddiezane.me/atom.xml" rel="self"/>
   <link href="http://creativewriting.eddiezane.me/"/>
-  <updated>2013-05-09T13:04:29-04:00</updated>
+  <updated>2013-05-09T13:26:17-04:00</updated>
   <id>http://creativewriting.eddiezane.me/</id>
   <author>
     <name><![CDATA[Eddie Zaneski]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[If Statements]]></title>
+    <link href="http://creativewriting.eddiezane.me/blog/2013/05/07/if-statements/"/>
+    <updated>2013-05-07T13:06:00-04:00</updated>
+    <id>http://creativewriting.eddiezane.me/blog/2013/05/07/if-statements</id>
+    <content type="html"><![CDATA[<p>In this video we learn how to use our first type of conditional logic, the If Statement.
+This type of logic is used everywhere in programming.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/aM0VmqJVIl4 "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tools Part 2]]></title>
