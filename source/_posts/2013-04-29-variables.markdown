@@ -15,7 +15,4 @@ In programming, variables are used for the same purpose - to hold values.
 Instead of trying to solve for them however, we assign them values to help us
 solve problems. In this video we are going to go over the basics of variables. 
 
-<a
-href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" 
-target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
+{% youtube o-3lw3H11v4 %}

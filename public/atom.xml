@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to Code]]></title>
   <link href="http://creativewriting.eddiezane.me/atom.xml" rel="self"/>
   <link href="http://creativewriting.eddiezane.me/"/>
-  <updated>2013-05-09T12:27:27-04:00</updated>
+  <updated>2013-05-09T12:52:32-04:00</updated>
   <id>http://creativewriting.eddiezane.me/</id>
   <author>
     <name><![CDATA[Eddie Zaneski]]></name>
@@ -26,10 +26,8 @@ was easily done by dividing both sides by <code>2</code> to get <code>x = 3</cod
 Instead of trying to solve for them however, we assign them values to help us
 solve problems. In this video we are going to go over the basics of variables.</p>
 
-<p><a
-href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE"
-target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a></p>
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/o-3lw3H11v4 "></iframe></div>
+
 ]]></content>
   </entry>
   
