@@ -4,7 +4,7 @@
   <title><![CDATA[Learn to Code]]></title>
   <link href="http://creativewriting.eddiezane.me/atom.xml" rel="self"/>
   <link href="http://creativewriting.eddiezane.me/"/>
-  <updated>2013-05-09T13:26:17-04:00</updated>
+  <updated>2013-05-09T13:39:05-04:00</updated>
   <id>http://creativewriting.eddiezane.me/</id>
   <author>
     <name><![CDATA[Eddie Zaneski]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Using Not With If Statements]]></title>
+    <link href="http://creativewriting.eddiezane.me/blog/2013/05/09/using-not-with-if-statements/"/>
+    <updated>2013-05-09T13:37:00-04:00</updated>
+    <id>http://creativewriting.eddiezane.me/blog/2013/05/09/using-not-with-if-statements</id>
+    <content type="html"><![CDATA[<p>In this video I go into more detail on If Statements and how to use <code>!</code> as
+a &#8216;Not&#8217; operator.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/VvTezds0Y64 "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[If Statements]]></title>
