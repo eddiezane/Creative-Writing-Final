@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Tools Part 2"
+date: 2013-05-02 10:01
+comments: true
+categories: 
+sharing: false
+---
+
+In this video I explain what the left side of our screen does on [repl.it](http://repl.it).
+REPL actually stands for Read Evaluate Print Loop, which describes our Javascript
+interpreter.
+
+
+{% youtube CE0yMs0RYD8 %}
